@@ -1,0 +1,16 @@
+{
+  "algorithm": "louvain",
+  "n_communities": 4,
+  "modularity_score": 0.4402,
+  "accuracy": 79.8,
+  "scalability": {
+    "runtime_sec": 0.002,
+    "memory_mb": 252.61
+  },
+  "outputs": {
+    "bar_graph": "results\\community_sizes.png",
+    "network_graph": "results\\community_network.png",
+    "performance_graph": "results\\performance_metrics.png",
+    "csv": "results\\communities.csv"
+  }
+}
